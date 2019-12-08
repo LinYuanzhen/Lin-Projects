@@ -1,3 +1,6 @@
+# 项目概述
+本项目名为Java高并发秒杀系统，基于Spring+SpringMVC+Mybatis+Redis实现，主要针对秒杀链接露出、秒杀按钮点击以及数据库访问等高并发环节进行了优化。
+
 # 开发环境
 IDEA+Maven+JDK1.8+Redis
 
