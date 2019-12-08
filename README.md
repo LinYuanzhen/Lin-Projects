@@ -7,7 +7,7 @@ IDEA+Maven+JDK1.8+Redis
 # 相关技术
 MySQL:  
 ①SQL技巧。  
-②事务和行级锁的理解和一些应用。  
+②事务的理解和一些应用。  
 
 MyBatis:  
 ①DAO层的设计与开发。  
