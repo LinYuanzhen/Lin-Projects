@@ -21,7 +21,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <!--这里spring在用5.0.2版本时，出现“Servlet.init() for servlet [dispatcherServlet] threw exception”错误-->
-    <spring.version>4.3.2.RELEASE</spring.version>
+    <spring.version>5.3.19</spring.version>
     <mysql.version>5.1.48</mysql.version>
     <mybatis.version>3.4.5</mybatis.version>
   </properties>
